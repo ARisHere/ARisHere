@@ -2,11 +2,11 @@
 
 ## 🚀 About Me
 
-🎓 I am Md. Ahadur Rohman Ahad, a **Front End Developer** (specializing in **Web and Android**), and I am also pursuing my Bachelor in **Computer Science & Engineering** at Bangladesh Army University of Engineering & Technology (BAUET) and will graduate in 2024.
+🎓 I am Md. Ahadur Rohman Ahad, a **Front End Developer** (specializing in **Web and Android**), and I completed my Bachelor of Science in Computer Science and Engineering at the Bangladesh Army University of Engineering & Technology (BAUET) in 2024.
 
-👨‍💻 I enjoy contributing to **Open Source Projects** and have worked with **SheBa Web Technology LLC**. I am really enthusiastic about learning new technology. This year I learned about **Machine Learning** and **Deep Learning** and contributed my knowledge to a **Crop Disease Detection Project**. Now I am working with research on **Machine Learning**, **Bioinformatics** and **Genetic Engineering** to implement human genetics into AI.
+👨‍💻 I enjoy contributing to **Open Source Projects** and have worked with **SheBa Web Technology LLC**. I am enthusiastic about learning new technology. This year I learned about **Machine Learning** and **Deep Learning** and contributed my knowledge to a **Crop Disease Detection Project**. Now I am working with research on **Machine Learning** and **Bioinformatics**.
 
-🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **Volunteering** with multiple organizations including, **Fire Service and Civil Defence**, **Bangladesh Red Crescent Society (BDRCS)** and **Bangladesh National Cadet Corps (BNCC)**
+🎸 Outside the tech world too, I enjoy pushing myself to develop new skills. My hobbies range from **Volunteering** with multiple organizations including, **Fire Service and Civil Defence**, **Bangladesh Red Crescent Society (BDRCS)** and **Bangladesh National Cadet Corps (BNCC)**
 
 <!---
 ## 🏅 Achievements
@@ -21,6 +21,15 @@
 -   🥈 **1st Runner up at Coding Competition** at _Heritage Institute of Technology_ (September 2019)
 -   🥉 **2nd Runner up at Coding Competition** at _GCECT_ (March 2019)
 --->
+## 🏅 Achievements
+
+-   🏅 **Champion at Programming Contest** at Mind Storm 4.0 Organized by BAUET Computer Society (March 2023)
+-   🥈 **2nd Runner up at Software Showcasing** at Mind Storm 4.0 Organized by BAUET Computer Society (March 2023)
+-   🥇 **Champion at Business Plan Presentation** at BAUET Business Fest 2.0 Organized by BAUET Business Club (October 2023)
+-   🥉 **2nd Runner up at Software Showcasing** at Mind Storm 5.0 Organized by BAUET Computer Society (March 2024)
+
+
+
 ## 🛠️ Skills
 
 ### Languages
